@@ -14,7 +14,9 @@ SAMSUNG ELECTRONICS 2000 - 2024
 
 ![PREVIEW](figure_.png)
 
-![PREVIEW](menorMaiorMedio.png)
+> O MAIOR , MENOR E MÉDIO preço atingido pela ação durante o pregão.
+![PREVIEW](menorMaiorMelhor.png)
+
 
 > Explorando correlações entre o volume de negociação e as flutuações de preços.:
 ![PREVIEW](coeficiente.png)
