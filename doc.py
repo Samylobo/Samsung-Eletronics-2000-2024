@@ -1,3 +1,7 @@
+Desafio retirado do site :
+https://www.kaggle.com/datasets/michellevp/samsung-electronics-stock-price-2000-2024
+
+
 # Este ambiente Python 3 vem com muitas bibliotecas analíticas úteis instaladas
 # É definido pela imagem Docker kaggle/python: https://github.com/kaggle/docker-python
 # Por exemplo, aqui estão vários pacotes úteis para carregar
@@ -26,35 +30,7 @@ Volume: Quantidade total de ações negociadas durante o pregão.
 '''
 '''Este conjunto de dados fornece preços diários de ações da Samsung Electronics, uma das principais empresas globais de tecnologia. Inclui métricas financeiras importantes para cada dia de negociação, permitindo uma análise aprofundada do desempenho das ações e da atividade do mercado durante esse período.
 
-Usos potenciais:
 
-Analisando tendências históricas nos preços das ações da Samsung Electronics.
-(preços de fechamento das ações da samsung )
-melhor preco de fechamento foi no ano de 2021 altingindo 9.0 em maio. 
-
-Explorando correlações entre o volume de negociação e as flutuações de preços.
-Coeficiente de correlação entre Volume e Preço de Fechamento: -0.2990272805025972
-
-
-Investigar o impacto de fatores externos ou eventos de mercado no desempenho das ações.
-Em 2021, vários eventos impactaram o mercado e, consequentemente, as ações da Samsung Electronics. Alguns dos principais eventos incluem:
-o lançamento  Galaxy S21, tablets, smartwatches e outros dispositivos eletrônicos
-no primeiro trimestre , os resultados trimestrais de açoes da samsung foram anunciados.
-Em maio de 2021 na alta de fechamento em ações , houve uma mudança de liderança , onde a samsung anunciou que Kim Ki-nam assumiria o cargo de CEO da divisão de eletrônicos de consumo, enquanto Koh Dong-jin se tornaria o CEO da 
-divisão de TI e comunicações móveis. 
-Logo apos isso veio a Pandemia - COVID afetando a economia global em 2021, com impactos significativos nos mercados financeiros.
-
-
-Nota: Este conjunto de dados pode ser utilizado por investidores, analistas e pesquisadores interessados ​​em compreender a dinâmica do comportamento do mercado de ações da Samsung Electronics durante o período especificado.
- texto pro github : O objetivo deste projeto é realizar uma ANÁLISE EXPLORATÓRIA e uma manipulação mais conhecida
- 
- redmi : > Visualização da Tabela de notas e a tabela de alunos:
-
-![PREVIEW](TabelaDeNotasAlunos.png)
-
-> União Da Tabela Alunos e Notas:
- 
- '''
 
 
 
