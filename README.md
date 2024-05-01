@@ -3,5 +3,25 @@ SAMSUNG ELECTRONICS 2000 - 2024
 > Visualização TOTAL DE 2000 Á 2024:
 
 ![PREVIEW](graficoTotal.png)
+ MELHOR PREÇO DE FECHAMENTO ACONTECEU EM MAIO DE 2021 ATINGINDO 9.0 DO PREGÃO
 
-> União Da Tabela Alunos e Notas:
+> Analisando tendências históricas nos preços das ações da Samsung Electronics.
+
+> GRÁFICO DE VISUALIZAÇÃO DA MAXIMA E MINIMAS DE AÇÕES.
+![PREVIEW](maior.png)
+
+![PREVIEW](minAçoes.png)
+
+![PREVIEW](figure_.png)
+
+![PREVIEW](Captura de tela 2024-04-30 224152.png)
+
+
+
+
+
+
+
+
+
+
