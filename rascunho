@@ -1,12 +1,2 @@
-#corelação entre volume e preço de fechamento
-plt.figure(figsize=(12, 6))
-sns.lineplot(x='data', y='fechamento', data=df)  # Corrigimos 'Date' para 'data' e 'Close' para 'fechamento'
-plt.xlabel('Correlacão entre Volume de Negociação e preco de fechamento')
-plt.xlabel('Volume')
-plt.xlabel('Preço de fechamento')
-correlation = df['Volume'].corr(df['fechamento'])
-
-print(f"Coeficiente de correlação entre Volume e Preço de Fechamento: {correlation}")
-
 
 
