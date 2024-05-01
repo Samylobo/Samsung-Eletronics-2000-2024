@@ -14,7 +14,7 @@ SAMSUNG ELECTRONICS 2000 - 2024
 
 ![PREVIEW](figure_.png)
 
-![PREVIEW](Captura de tela 2024-04-30 224152.png)
+![PREVIEW](C.png)
 
 
 
