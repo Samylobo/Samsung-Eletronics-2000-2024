@@ -16,6 +16,8 @@ SAMSUNG ELECTRONICS 2000 - 2024
 
 ![PREVIEW](menorMaiorMedio.png)
 
+> Explorando correlações entre o volume de negociação e as flutuações de preços.:
+![PREVIEW](coeficiente.png)
 
 
 
