@@ -1,3 +1,4 @@
+GOOGLE DATA STUDIO -  https://lookerstudio.google.com/s/lEqXZi2iG5w
 SAMSUNG ELECTRONICS 2000 - 2024 
 
 > Este conjunto de dados fornece preços diários de ações da Samsung Electronics, uma das principais empresas globais de tecnologia. Inclui métricas financeiras importantes para cada dia de negociação, permitindo uma análise aprofundada do desempenho das ações e da atividade do mercado durante esse período.:
@@ -5,6 +6,7 @@ SAMSUNG ELECTRONICS 2000 - 2024
 
 ![PREVIEW](graficoTotal.png)
  MELHOR PREÇO DE FECHAMENTO ACONTECEU EM MAIO DE 2021 ATINGINDO 9.0 DO PREGÃO
+
 
 > Analisando tendências históricas nos preços das ações da Samsung Electronics.
 
